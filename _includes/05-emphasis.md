@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Here is a sentence using **bold** and *italic* text. Also some *italic text with **nested bold** words*. <del>Crossed out text too, for good measure.</del>
